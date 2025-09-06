@@ -56,7 +56,7 @@ section{
 .contents h1{
     font-family: "poppins";
     font-weight: 600;
-    font-size: 3rem;
+    font-size: 3.1rem;
     max-width: 620px;
     color: white;
     
@@ -65,9 +65,9 @@ section{
 }
 .contents p{
     font-family: "open sans";
-    font-size: 1.2rem;
+    font-size: 1.3rem;
     color: white;
-    max-width: 550px;
+    max-width: 65%;
 
 }
 
@@ -84,6 +84,7 @@ a{
     justify-content: center;
     align-items: center;
     box-shadow: 3px 3px 3px 3px rgba(0, 0, 0, 0.151);
+    margin-left: 3rem;
 }
 a:hover{
     background-color: var(--Magenta);
