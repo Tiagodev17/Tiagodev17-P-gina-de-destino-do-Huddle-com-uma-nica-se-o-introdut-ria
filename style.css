@@ -23,25 +23,23 @@ body{
 .background{
     background-color: var(--Violet);
     background-image: url(images/bg-desktop.svg);
-    background-position: center left ;
+    background-position: center ;
     background-repeat: no-repeat;
     background-size: contain;
     background-attachment: local;
 }
 .header{
-    margin: 2rem 0 0 2rem; 
+    margin: 1rem 0 0 8rem; 
 }
 section{
     margin: auto;
     display: flex;
     padding: 2rem;
 }
-.image-illustration{
-    width: 900px;
-    height: 650px;
-    margin-top: 6rem;
-   
-    
+.image-illustration {
+  width: 2900px;
+  height: 600px;
+  margin: 5rem 5rem;
 }
 .contents{
   
@@ -56,18 +54,16 @@ section{
 .contents h1{
     font-family: "poppins";
     font-weight: 600;
-    font-size: 3.1rem;
+    font-size: 3rem;
     max-width: 620px;
     color: white;
-    
-    
-    text-align: left;
+    text-align: ;
 }
 .contents p{
     font-family: "open sans";
-    font-size: 1.3rem;
+    font-size: 1.2rem;
     color: white;
-    max-width: 65%;
+    max-width: 85%;
 
 }
 
